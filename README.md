@@ -4,9 +4,6 @@
 
 :open_book: Aproveitei o domingo para "fixar" ainda mais meus conhecimentos com html,css e js pensando nisso, resolvi fazer um catálogo de filmes que ainda tem que ser melhorado
 
-:open_book: Projeto iniciado para exercitar as principais tecnlogias de front-end.
-
-
 :open_book: Linguagens utilizadas até o momento:
 <br>
 HTML
