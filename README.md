@@ -15,5 +15,9 @@ JAVASCRIPT
 
 https://user-images.githubusercontent.com/82295321/141701499-5ed0f524-a934-4bba-a76c-91e28ceca604.mp4
 
+:heavy_check_mark: Link para dar uma olhadinha no projeto :arrow_down:
+
+:arrow_forward:   https://bkt-tonton.github.io/Catalogo-de-Filmes/  :arrow_backward:
+
 
 
